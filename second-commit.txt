@@ -1,3 +1,0 @@
-This is our second commit!
-
-I forgot this part , good to have detached head mode
